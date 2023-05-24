@@ -25,14 +25,14 @@ For this demo project, we do not have a typescript edition. Please see the NextJ
 
 If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/html-fund-me-fcc)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/Welith/html-hardhat-fund-me)
 
 # Quickstart
 
 1. Clone the repo
 
 ```
-git clone https://github.com/PatrickAlphaC/html-fund-me-fcc
+git clone https://github.com/Welith/html-hardhat-fund-me
 cd html-fund-me-fcc
 ```
 
@@ -64,7 +64,7 @@ Make sure you have the following installed:
 1. You'll need to open up a second terminal and run:
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
+git clone https://github.com/Welith/html-hardhat-fund-me
 cd hardhat-fund-me-fcc
 yarn
 yarn hardhat node
